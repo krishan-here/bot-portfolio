@@ -1,6 +1,7 @@
 *{
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 .row{
     margin: 0;
@@ -8,11 +9,15 @@
 .navbar-nav{
     margin-right: 20%;
 }
-.profile{
-    /* text-align: right; */
-}
 .profile img{
     width: 70%;
     object-fit: contain;
-
+}
+.custom-heading{
+    padding: 30px;
+}
+.custom-heading h2{
+    font-family: 'Montserrat', 'sans-serif';
+    font-size: 70px;
+    font-weight: 700;
 }
