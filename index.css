@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.row{
+    margin: 0;
+}
+.navbar-nav{
+    margin-right: 20%;
+}
+.profile{
+    /* text-align: right; */
+}
+.profile img{
+    width: 70%;
+    object-fit: contain;
+
+}
